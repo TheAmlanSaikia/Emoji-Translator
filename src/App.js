@@ -10,7 +10,8 @@ var emojiDictionary = {
   "🐉": "Chinese New Year",
   "🎅": " Christmas",
   "🌱": "Earth Day",
-  " 🐰": "Easter"
+  " 🐰": "Easter",
+  "😏": " Smirking Face"
 };
 export default function App() {
   var emojiweKnow = Object.keys(emojiDictionary);
