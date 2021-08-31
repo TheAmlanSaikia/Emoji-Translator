@@ -9,8 +9,6 @@ var emojiDictionary = {
   "✊🏿": "Black Lives Matter",
   "🐉": "Chinese New Year",
   "🎅": " Christmas",
-  "🦠 ": "Coronavirus",
-  "🪔": " Diwali",
   "🌱": "Earth Day",
   " 🐰": "Easter"
 };
